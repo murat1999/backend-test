@@ -1,6 +1,7 @@
 The initialization of the project:
 1. Initialized the project with `npm init`
 2. Installed neccessary packages `npm install express body-parser md5 sqlite3 --save`
+3. I assume that movie has the `name, description, director, year, genre, rating, duration` fields as for the JSON data to the input for creating or updating movie. Its database fields can be changed but I assumed that these fields are necessary for this task. I expect response status 200 or 201 code for the successful request response.
 
 **Install node if you do not have it.** 
 
