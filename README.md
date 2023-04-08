@@ -1,3 +1,5 @@
+I chose Node.js for this assignment with Express and Sqlite3.
+
 The initialization of the project:
 1. Initialized the project with `npm init`
 2. Installed neccessary packages `npm install express body-parser md5 sqlite3 --save`
