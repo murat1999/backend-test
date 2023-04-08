@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Editor/IDE specific files
+.vscode/
+.DS_Store
+
+# Configuration files with sensitive information
+config.json
+.env
+
+# Build output directories
+dist/
+build/
+bin/
+out/
+
+# User-specific files
+.bash_history
+.viminfo
